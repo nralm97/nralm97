@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Nilsen 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/nralm97/sportech-n/blob/main/portada%20Nilsen.png" width="200" alt="Foto de Nilsen"/>
+  <img src="https://github.com/nralm97/sportech-n/blob/main/portada%20Nilsen.png" width="400" alt="Foto de Nilsen"/>
 </p>
 
 <p align="center">

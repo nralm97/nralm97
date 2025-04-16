@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Nilsen 👋</h1>
 
 <p align="center">
-  <img src="https://tu-imagen-url.jpg" width="200" alt="Foto de Nilsen"/>
+  <img src="https://github.com/nralm97/sportech-n/blob/main/portada%20Nilsen.png" width="200" alt="Foto de Nilsen"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ### 📂 Proyectos destacados
 
-- [Análisis de rendimiento de Equipo y plantilla] (https://sanantonio-diracsportech.streamlit.app/Graficos)
+- [Análisis de rendimiento de Equipo y plantilla](https://sanantonio-diracsportech.streamlit.app/Graficos)
 - [Análisis de datos Molino 30x20](https://github.com/tuusuario/proyecto-3)
 - [Análisis de estilo de juego en fútbol](https://github.com/tuusuario/proyecto-1)
 - [Dashboard de métricas de jugadores](https://melgar-stats.streamlit.app/)

@@ -18,11 +18,12 @@
 
 ### ⚙️ Tecnologías y conocimientos que domino
 
-- 🦾Industria 4.0: sensores, IoT Industrial, impresión 3D
 - 🧠 Análisis de datos e Inteligencia artifical con Python (Pandas, NumPy, Scikit-learn...) y SQL
+- ⚽ Sports Analytics con StatsBomb, Wyscout, Nacsport, Metrica Sports
 - 🧩 AWS (IoT SiteWise, Greengrass, SageMaker, IoT Events, S3 ...)
-- ⚽ Sports Analytics con StatsBomb, Wyscout, Nacsport
 - 📊 Visualización: Power BI, Tableau, Quicksight
+- 🦾Industria 4.0: sensores, IoT Industrial, impresión 3D
+
   
 ---
 

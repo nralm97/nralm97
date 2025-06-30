@@ -29,10 +29,11 @@
 
 ### 📂 Proyectos destacados
 
-- [Análisis de rendimiento de Equipo y plantilla](https://sanantonio-diracsportech.streamlit.app/Graficos)
-- [Análisis de datos Molino 30x20](https://github.com/tuusuario/proyecto-3)
-- [Análisis de estilo de juego en fútbol](https://github.com/tuusuario/proyecto-1)
-- [Dashboard de métricas de jugadores](https://melgar-stats.streamlit.app/)
+- [Aplicación Análisis de rendimiento: data & video](https://sanantonio-diracsportech.streamlit.app/Graficos)
+- [Estilo de juego a través de NMF, mapas de calor y clustering. Datos Statsbomb](https://github.com/nralm97/modelojuego)
+- [Tableau Nilsen A M] (https://public.tableau.com/app/profile/nilsen.a.m/vizzes)
+- [Dashboard de métricas de jugadores FBC Melgar](https://melgar-stats.streamlit.app/)
+- [Análisis de datos minería: Molino 30x20](https://github.com/tuusuario/proyecto-3)
 
 ---
 
